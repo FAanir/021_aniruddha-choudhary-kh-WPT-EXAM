@@ -31,7 +31,7 @@ function Whatsapp() {
 
   return (
     <div>
-      <h1>MyChatApp by Abhijeet Mahajan 001_KH</h1>
+      <h1>MyChatApp Aniruddha choudhary 021_KH</h1>
       <input
         type="text"
         placeholder="lets chat here...."
